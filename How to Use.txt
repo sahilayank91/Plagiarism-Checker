@@ -1,0 +1,5 @@
+Name- Sahil Ayank
+ID - 2015KUCP1025
+
+Step 1) Run -> npm install fs difflib --save
+Step 2) To run checker -> node plagiarismChecker.js filename1 filename2
